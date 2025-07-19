@@ -48,6 +48,6 @@ Steps Performed:
 - Built a Random Forest classifier
 - Evaluated performance using accuracy and precision/recall metrics
 
-📎 [View Notebook on Colab](https://colab.research.google.com/your-link-here)
+📎 [View Notebook on Colab](https://colab.research.google.com/drive/141CQhSl65931uICprpEJEnp50-pXoiVV?usp=sharing)
 
 ⭐ Thank you for checking out my work!
